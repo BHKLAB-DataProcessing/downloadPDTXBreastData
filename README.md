@@ -1,2 +1,2 @@
 # downloadPDTXBreastData
-Script to download PDTX breast data.
+Script to download PDTX breast data
